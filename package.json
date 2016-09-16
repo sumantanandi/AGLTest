@@ -1,0 +1,16 @@
+{
+  "name": "AGLTest",
+  "version": "1.0.0",
+  "description": "AGL Digital Test",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node test.js"
+  },
+  "engines": {
+    "node": "5.11.1"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
